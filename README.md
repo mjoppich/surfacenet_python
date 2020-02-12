@@ -1,5 +1,5 @@
 # surfacenet_python
-![GitHub](https://img.shields.io/github/license/mjoppich/surfacenet_python) ![python](https://img.shields.io/badge/python-3.5%20%7C%203.6%20%7C%203.7-blue) 
+![GitHub](https://img.shields.io/github/license/mjoppich/surfacenet_python) ![python](https://img.shields.io/badge/python-3.5%20%7C%203.6%20%7C%203.7-blue) [![DOI](https://zenodo.org/badge/239514239.svg)](https://zenodo.org/badge/latestdoi/239514239)
 
 SurfaceNets implementation in python3 // Volumetric Data to STL
 
@@ -11,4 +11,4 @@ This python class allows to transform any volumetric data into a polygonal repre
 A 3D numpy array serves as input, such that, for instance, NRRD files can easily be converted.
 
 
-I hope this implementation helps someone. If you are using this implementation in your scientific work, please cite the current Zenodo release.
+I hope this implementation helps someone. If you are using this implementation in your scientific work, please cite the [current Zenodo release](https://zenodo.org/badge/latestdoi/239514239).
