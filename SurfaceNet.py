@@ -1,6 +1,6 @@
 import numpy as np
 
-
+"""
 // The MIT License (MIT)
 //
 // Copyright (c) 2012-2013 Mikola Lysenko
@@ -42,6 +42,7 @@ import numpy as np
  *
  * Based on: SurfaceNets in JavaScript, S.F. Gibson, "Constrained Elastic Surface Nets". (1998) MERL Tech Report.
  */
+"""
 
 class SurfaceNets:
 
