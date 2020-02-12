@@ -11,6 +11,4 @@ This python class allows to transform any volumetric data into a polygonal repre
 A 3D numpy array serves as input, such that, for instance, NRRD files can easily be converted.
 
 
-I hope this implementation helps someone. If you are 
-
-https://img.shields.io/badge/python-3.5%20%7C%203.6%20%7C%203.7-blue
+I hope this implementation helps someone. If you are using this implementation in your scientific work, please cite the current Zenodo release.
